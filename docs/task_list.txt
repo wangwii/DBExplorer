@@ -1,0 +1,6 @@
+Task_List:
+1、整理源码、撰写指导源码阅读的Blog或文章、并全面将源码开放在googlecode.com的SVN上；
+2、引入Maven做为项目构建工具；
+3、完成 Table创建 功能；
+4、完成 .sql文件执行功能；
+5、完成 sql编辑器语法高亮功能；
